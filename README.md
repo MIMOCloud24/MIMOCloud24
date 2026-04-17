@@ -1,273 +1,299 @@
 # 👋 Hi, I'm Mimoune Tahri
 
-### L2 Cybersecurity Support Engineer @ ThreatLocker | MS Candidate in Cyber Operations & Computer Science (AI/ML)
+### 🎯 Bug Bounty Hunter | Cybersecurity Researcher | Offensive Security Specialist
 
-I'm a cybersecurity professional specializing in **defensive security**, **cloud infrastructure**, and **full-stack development**. Currently working at **ThreatLocker** as an L2 Cybersecurity Support Engineer, I focus on application allowlisting, ringfencing, and zero-trust security implementations while continuously expanding my expertise in offensive security, Windows driver development, and AI/ML applications in cybersecurity.
+I'm a cybersecurity professional specializing in **offensive security**, **vulnerability research**, and **penetration testing**. Currently hunting bugs on **Intigriti** and **HackerOne**.
 
-Building a **Compliance Automation Platform** for HIPAA, PCI DSS 4.0, and FERPA to help organizations streamline their security compliance workflows through automated auditing and continuous monitoring.
+My focus is on discovering **critical vulnerabilities** in web applications, APIs, and network infrastructure through deep technical analysis, creative attack chains, and thorough reconnaissance. I combine offensive security skills with a strong foundation in network security, cloud infrastructure, and defensive technologies to find vulnerabilities others miss.
+
+---
+
+## 🎯 Bug Bounty & Security Research
+
+### Active Platforms
+- 🎯 **Intigriti** - Active bug bounty hunter (Nov 2025 - Present)
+- 🎯 **HackerOne** - Active bug bounty hunter (Nov 2025 - Present)
+
+
+### Research Focus
+- 🔍 Web application security (OWASP Top 10, API vulnerabilities)
+- 🔍 Authentication and authorization bypass techniques
+- 🔍 Business logic flaws and access control issues
+- 🔍 API security testing and GraphQL vulnerabilities
+- 🔍 Server-side injection attacks (SQLi, SSTI, XXE, SSRF)
+- 🔍 Client-side vulnerabilities (XSS, CSRF, DOM-based attacks)
 
 ---
 
 ## 🎓 Education
 
-- 🎓 **MS in Cyber Operations** - University of Maryland Global Campus *(Graduating Spring 2025)*
-- 🎓 **MS in Computer Science (AI/ML Track)** - University of Maryland Global Campus *(Expected Spring 2027)*
-- 🎓 **BS in Cybersecurity Technology** - University of Maryland Global Campus *(Completed)*
+- 🎓 **MS in Cyber Operations** - University of Maryland Global Campus *(Expected August 2026)*
+- 🎓 **BS in Cybersecurity Technology** - University of Maryland Global Campus *(Completed - 4.0 GPA)*
+
+Specialized coursework in offensive security, penetration testing, malware analysis, reverse engineering, network security, ethical hacking, and cyber warfare strategy.
 
 ---
 
 ## 🏆 Certifications
 
-### Current Certifications
-- ✅ **CompTIA A+** - IT Fundamentals
-- ✅ **CompTIA Network+** - Networking Infrastructure
-- ✅ **CompTIA Security+** - Security Fundamentals
-- ✅ **CompTIA Linux+** - Linux System Administration
-- ✅ **CompTIA CySA+** - Cybersecurity Analyst
-- ✅ **ISC² Certified in Cybersecurity (CC)** - Security Principles
-
-### In Progress
-- 🎯 **CompTIA PenTest+** *(Next Certification)*
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Linux+](https://img.shields.io/badge/CompTIA-Linux%2B-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK_Defender-000000?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 💼 Professional Experience
 
-**L2 Cybersecurity Support Engineer** @ **ThreatLocker**  
-- Application allowlisting and ringfencing implementations
-- Zero-trust security architecture support
-- Endpoint protection and threat mitigation
-- Customer security consultation and incident response
-- Policy configuration and security hardening
+### 🎯 **Bug Bounty Hunter (Freelance)**
+**Intigriti | HackerOne** | *November 2025 - Present*
+
+- Conducting comprehensive security assessments on web applications, mobile apps, and APIs
+- Identifying critical vulnerabilities: authentication bypasses, injection flaws, business logic errors, and authorization issues
+- Performing reconnaissance, enumeration, and exploitation using industry-standard tools and custom scripts
+- Providing detailed vulnerability reports with proof-of-concept exploits and remediation recommendations
+- Maintaining responsible disclosure practices and adhering to program rules of engagement
+
+### 🛡️ **L2 Cybersecurity Support Engineer**
+**ThreatLocker** | *June 2025 - Present* | Orlando, Florida
+
+- Troubleshooting and resolving escalated security issues in endpoint protection, application allowlisting, and ringfencing
+- Analyzing threat events, blocked applications, and behavioral logs to identify malicious activity
+- Assisting enterprise clients with zero-trust security architecture implementation
+- Providing security consultation and incident response support to MSPs and enterprise organizations
+- Configuring and deploying security policies tailored to client environments
+
+### 🌐 **Network Security Engineer**
+**Magnum Utilities Inc** | *May 2011 - March 2023* | Houston, Texas
+
+- Configured firewalls, VPNs, and IPS to secure ISP/datacenter infrastructure
+- Conducted penetration tests on network devices and remediated identified vulnerabilities
+- Provided network-level forensics during incident response to contain and analyze threats
 
 ---
 
-## 🚀 What I'm Building
+## 💻 Offensive Security Arsenal
 
-### 📊 Compliance Automation Platform
-Streamlining security compliance for **HIPAA**, **PCI DSS 4.0**, and **FIPA** through automated auditing, continuous monitoring, and real-time compliance reporting.
+### Reconnaissance & Enumeration
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-000000?style=for-the-badge&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-00ADD8?style=for-the-badge&logoColor=white)
+![FFuF](https://img.shields.io/badge/FFuF-FF6B35?style=for-the-badge&logoColor=white)
+![DNSRecon](https://img.shields.io/badge/DNSRecon-5391FE?style=for-the-badge&logoColor=white)
 
-**Tech Stack**: React, Node.js, MongoDB, AWS  
-**Features**: Automated compliance checks, policy management, audit trail generation, real-time dashboards, reports generation
+### Web Application Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-4EAA25?style=for-the-badge&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-000000?style=for-the-badge&logoColor=white)
 
----
+### Exploitation & Post-Exploitation
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-CC0000?style=for-the-badge&logoColor=white)
+![PowerSploit](https://img.shields.io/badge/PowerSploit-5391FE?style=for-the-badge&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge&logoColor=white)
 
-### 🌐 [tahri.io](https://tahri.io)
-Modern, full-stack portfolio with integrated CMS, blog, and dynamic project showcase featuring GitHub API integration.
+### Vulnerability Scanning
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-4B8BBE?style=for-the-badge&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logoColor=white)
+![Acunetix](https://img.shields.io/badge/Acunetix-FF6600?style=for-the-badge&logoColor=white)
 
-**Tech Stack**: React, Node.js, Express, MongoDB, Vite  
-**Features**: 
-- GitHub-integrated project management with metadata-driven categorization
-- Auto-rotating featured projects with smart display algorithms
-- RESTful API with JWT authentication and rate limiting
-- Comprehensive CMS for blog management
+### Network Analysis & Packet Inspection
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
 
----
+### Scripting & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-## 💻 Tech Stack
-
-### Cloud & Infrastructure
+### Cloud Security
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Security & Networking
-![ThreatLocker](https://img.shields.io/badge/ThreatLocker-FF6B35?style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Qualys](https://img.shields.io/badge/Qualys-ED1C24?style=for-the-badge&logoColor=white)
-
-### Scripting & Automation
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+### Operating Systems
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15C8E8?style=for-the-badge&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-## 🎯 Areas of Expertise
+## 🎯 Core Competencies
 
-### Cybersecurity
-- **Defensive Security**: Application allowlisting, ringfencing, zero-trust architecture, endpoint protection
-- **Offensive Security**: Penetration testing methodologies, vulnerability assessment (learning & expanding)
-- **Compliance Frameworks**: HIPAA, PCI DSS 4.0, FERPA, SOC 2, ISO 27001
-- **Security Operations**: SIEM implementation, threat detection, incident response, log analysis
+### Offensive Security
+- **Web Application Penetration Testing**: OWASP Top 10, API security, GraphQL attacks
+- **Authentication & Authorization**: OAuth/OIDC bypass, JWT manipulation, session hijacking, privilege escalation
+- **Injection Attacks**: SQL injection, command injection, LDAP injection, XXE, SSTI, SSRF
+- **Client-Side Attacks**: XSS (reflected, stored, DOM-based), CSRF, clickjacking, prototype pollution
+- **Business Logic Flaws**: Race conditions, IDOR, mass assignment, payment bypass, workflow manipulation
+- **Network Penetration Testing**: Network reconnaissance, service exploitation, lateral movement, privilege escalation
 
-### System Administration
-- **Linux**: System hardening, automation, performance tuning, service management
-- **Windows Server**: Active Directory, Group Policy, PowerShell automation, user/computer management
-- **Virtualization**: VMware, Hyper-V, virtual lab environments
+### Vulnerability Research
+- **CVE Analysis**: Deep-dive analysis of published vulnerabilities and exploitation techniques
+- **Zero-Day Discovery**: Identifying novel vulnerabilities through code review and fuzzing
+- **Exploit Development**: Creating proof-of-concept exploits for identified vulnerabilities
+- **Attack Chain Construction**: Chaining multiple vulnerabilities for maximum impact
 
-### Networking
-- **Network Design**: VPC architecture, network segmentation, hybrid cloud networking
-- **Network Security**: Firewall configuration, VPN setup, IDS/IPS, network access control
-- **Protocols & Services**: TCP/IP, DNS, DHCP, routing protocols, load balancing
+### Defensive Security
+- **Threat Detection**: SIEM implementation (Splunk), log analysis, behavioral anomaly detection
+- **Incident Response**: Threat containment, forensic analysis, root cause identification
+- **Security Hardening**: System and network hardening based on CIS benchmarks and NIST frameworks
+- **Vulnerability Management**: Asset inventory, risk prioritization, patch management, remediation validation
 
-### Cloud & DevOps
-- **Cloud Platforms**: AWS (EC2, S3, VPC, IAM, Lambda), Azure (VMs, VNets, AD)
-- **Infrastructure as Code**: Terraform, CloudFormation
-- **Containerization**: Docker, Kubernetes (learning)
-- **Automation**: CI/CD pipelines, infrastructure automation
+### Network Security
+- **Firewall Configuration**: Cisco ASA, Palo Alto, pfSense
+- **VPN Implementation**: Site-to-site, remote access, split tunneling
+- **IDS/IPS Deployment**: Suricata, Snort, rule creation and tuning
+- **Zero Trust Architecture**: Microsegmentation, least-privilege access, continuous verification
 
-### Software Development
-- **Full-Stack Development**: MERN stack (MongoDB, Express, React, Node.js)
-- **Backend Development**: RESTful APIs, authentication/authorization, database design
-- **Frontend Development**: React, responsive design, modern JavaScript (ES6+)
-- **Systems Programming**: C programming, Windows driver development (KMDF - currently learning)
-- **Scripting**: PowerShell (advanced), Bash (advanced), Python (intermediate)
-
----
-
-## 🌟 Featured Projects
-
-### 📊 [Compliance Automation Platform](https://github.com/MIMOCloud24/compliance-automation) *(Coming Soon)*
-Automated compliance management for HIPAA, PCI DSS 4.0, and FERPA with real-time monitoring and audit trail generation.
-
-**Tech Stack**: React, Node.js, MongoDB, AWS  
-**Features**: Automated compliance checks, policy templates, evidence collection, audit reports, risk scoring
+### Cloud Security
+- **Cloud Penetration Testing**: AWS, Azure, GCP security assessments
+- **IAM Security**: Role misconfiguration, privilege escalation, access key exposure
+- **Storage Security**: S3 bucket enumeration, public exposure, data exfiltration
+- **Container Security**: Docker, Kubernetes security assessment and hardening
 
 ---
 
-### 🏠 [Virtual IT Support Environment](https://github.com/MIMOCloud24/Virtual-IT-Support-Environment)
-Enterprise IT support lab simulating real-world scenarios: Active Directory, network troubleshooting, and helpdesk operations.
+## 🌟 Featured Security Projects
 
-**Tech Stack**: VMware, Windows Server, Active Directory, PowerShell  
-**Features**: Multi-domain environment, Group Policy management, automated user provisioning, helpdesk ticketing simulation
+### 🎯 [Bug Bounty Automation Framework](https://github.com/MIMOCloud24/bug-bounty-automation) *(In Development)*
+Automated reconnaissance and vulnerability scanning framework for bug bounty hunting workflows.
 
----
-
-### 🌐 [tahri.io Portfolio](https://github.com/MIMOCloud24/portfolio-site)
-Modern full-stack portfolio with integrated CMS, blog, and GitHub-powered project showcase.
-
-**Tech Stack**: React, Node.js, Express, MongoDB, Vite  
-**Features**: Dynamic project categorization, auto-rotating featured projects, JWT authentication, RESTful API
+**Tech Stack**: Python, Bash, Docker, GitHub Actions  
+**Features**: Subdomain enumeration, port scanning, vulnerability detection, custom nuclei templates, automated reporting
 
 ---
 
-### 🛡️ [SIEM & Splunk Lab](https://github.com/MIMOCloud24/siem-splunk-lab) *(Coming Soon)*
-Enterprise SIEM implementation for centralized log management, threat detection, and security incident response.
+### 🔐 [Web Application Penetration Testing Lab](https://github.com/MIMOCloud24/webapp-pentest-lab) *(In Development)*
+Intentionally vulnerable web applications for practicing OWASP Top 10 attacks and advanced exploitation techniques.
 
-**Tech Stack**: Splunk, Syslog, Windows Event Logs, Linux, Suricata  
-**Features**: Real-time log aggregation, custom dashboards, correlation rules, automated alerting
-
----
-
-### 🔐 [Active Directory Security Lab](https://github.com/MIMOCloud24/active-directory-lab) *(Coming Soon)*
-Comprehensive Active Directory lab environment for security testing, hardening, and attack/defense scenarios.
-
-**Tech Stack**: Windows Server, Active Directory, PowerShell, BloodHound  
-**Features**: AD misconfigurations, privilege escalation scenarios, attack detection, defensive hardening
+**Tech Stack**: Docker, Node.js, Python (Flask), MySQL  
+**Features**: SQL injection, XSS, CSRF, authentication bypass, business logic flaws, API vulnerabilities
 
 ---
 
-### 🐧 [Linux Hardening & Automation](https://github.com/MIMOCloud24/linux-hardening-automation) *(Coming Soon)*
-Automated Linux hardening scripts and configurations based on CIS benchmarks and security best practices.
+### 🛡️ [Active Directory Attack & Defense Lab](https://github.com/MIMOCloud24/ad-attack-defense-lab) *(In Development)*
+Comprehensive Active Directory environment for practicing offensive and defensive techniques.
 
-**Tech Stack**: Bash, Python, Ansible  
-**Features**: CIS benchmark automation, compliance checking, security auditing, system hardening
-
----
-
-### 🌐 [Network Security Lab](https://github.com/MIMOCloud24/network-security-lab) *(Coming Soon)*
-Virtual network environment for testing firewall rules, IDS/IPS, VPN configurations, and network segmentation strategies.
-
-**Tech Stack**: EveNg, Cisco, pfSense, Suricata  
-**Features**: Multi-zone network design, firewall rule testing, VPN configurations, traffic analysis
+**Tech Stack**: Windows Server, Active Directory, PowerShell, BloodHound, Mimikatz  
+**Features**: Kerberoasting, AS-REP roasting, golden/silver tickets, DCSync, privilege escalation, lateral movement
 
 ---
 
-### 🖥️ [Windows Driver Development](https://github.com/MIMOCloud24/windows-driver-dev) *(Coming Soon)*
-Learning project for Windows kernel-mode driver development using KMDF framework.
+### 🌐 [API Security Testing Framework](https://github.com/MIMOCloud24/api-security-framework) *(In Development)*
+Automated API security testing tool for REST and GraphQL endpoints.
 
-**Tech Stack**: C, WDK (Windows Driver Kit), KMDF  
-**Features**: Sample drivers, kernel debugging, driver installation/testing
+**Tech Stack**: Python, Burp Suite extensions, Postman  
+**Features**: Authentication testing, authorization bypass, injection attacks, rate limiting bypass, GraphQL introspection
+
+---
+
+### 🔍 [OSINT Reconnaissance Toolkit](https://github.com/MIMOCloud24/osint-recon-toolkit) *(In Development)*
+Open-source intelligence gathering toolkit for bug bounty reconnaissance and information gathering.
+
+**Tech Stack**: Python, Bash, API integrations  
+**Features**: Domain enumeration, email harvesting, social media profiling, technology fingerprinting, certificate transparency
+
+---
+
+### 🐧 [Linux Privilege Escalation Lab](https://github.com/MIMOCloud24/linux-privesc-lab) *(In Development)*
+Vulnerable Linux environment for practicing privilege escalation techniques.
+
+**Tech Stack**: Docker, Ubuntu, Debian, CentOS  
+**Features**: SUID/SGID exploitation, kernel exploits, cron job abuse, wildcard injection, capabilities abuse
+
+---
+
+### 📊 [SIEM & Threat Hunting Lab](https://github.com/MIMOCloud24/siem-threat-hunting) *(In Development)*
+Enterprise SIEM implementation for detection engineering and threat hunting.
+
+**Tech Stack**: Splunk, ELK Stack, Syslog, Windows Event Logs  
+**Features**: Attack simulation, detection rules, threat hunting queries, custom dashboards, MITRE ATT&CK mapping
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mimoune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIMOCloud24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5E6AD2&icon_color=5E6AD2&text_color=C9D1D9)
+![Mimoune's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIMOCloud24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIMOCloud24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5E6AD2&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIMOCloud24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9)
+
+---
+
+## 🔬 Current Research & Learning
+
+- 🎯 **Advanced Web Exploitation**: GraphQL security, WebSocket attacks, HTTP request smuggling
+- 🎯 **Cloud Security**: AWS/Azure penetration testing, container escape techniques
+- 🎯 **Binary Exploitation**: Buffer overflows, return-oriented programming (ROP), heap exploitation
+- 🎯 **Mobile Security**: Android/iOS application security assessment and reverse engineering
+- 🎯 **Malware Analysis**: Static and dynamic analysis, reverse engineering, sandbox evasion
+- 🎯 **AI/ML in Cybersecurity**: Adversarial machine learning, automated vulnerability discovery
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm always interested in collaborating on:
+I'm interested in collaborating on:
 
-- **🔐 Cybersecurity Projects**: Defensive security tools, compliance automation, security frameworks
-- **☁️ Cloud Security**: Multi-cloud security architectures, infrastructure hardening, identity management
-- **🚀 DevOps & Automation**: Security automation, infrastructure as code, CI/CD security
-- **📊 Compliance Solutions**: Automated compliance frameworks, policy management, audit automation
-- **🐧 System Administration**: Linux/Windows hardening, automation scripts, configuration management
-- **🌐 Open Source Security**: Contributing to security tools, threat intelligence platforms, defensive frameworks
+- 🎯 **Bug Bounty Programs**: Joint hunting, knowledge sharing, methodology discussions
+- 🔐 **Security Research**: Novel vulnerability discovery, exploit development, CVE analysis
+- 🛠️ **Security Tools**: Open-source offensive security tools, automation frameworks
+- 📚 **Educational Content**: Security write-ups, tutorial creation, community training
+- 🏴‍☠️ **CTF Teams**: Competitive capture-the-flag competitions and challenges
 
 ---
 
 ## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mimoune-tahri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5E6AD2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tahri.io)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mimoune@tahri.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MIMOCloud24)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com)
+[![Intigriti](https://img.shields.io/badge/Intigriti-161A40?style=for-the-badge&logoColor=white)](https://intigriti.com)
 
 ---
 
-## 💭 Current Focus
+## 🎯 Philosophy
 
-🔬 **Learning & Development**:
-- Windows Kernel-Mode Driver Development (KMDF)
-- Advanced penetration testing techniques (PenTest+ prep)
-- AI/ML applications in cybersecurity
-- Python development (expanding skills)
-
-🔨 **Active Projects**:
-- Building compliance automation platform (HIPAA, PCI DSS 4.0, FERPA)
-- Developing real-world cybersecurity labs for portfolio
-- Contributing to open-source security tools
-
-🎯 **Goals**:
-- Complete MS in Cyber Operations (Spring 2025)
-- Obtain CompTIA PenTest+ certification
-- Launch compliance automation platform
-- Continue contributing to cybersecurity community
-
----
-
-## 🛡️ Philosophy
-
-> "Security is not a product, but a process. Building defensive systems that anticipate threats, adapt to change, and empower organizations to operate confidently in an evolving threat landscape."
+> "The best defense comes from understanding offense. Finding vulnerabilities before adversaries do, and helping organizations build resilient security architectures through continuous testing and research."
 
 I believe in:
-- 🔒 **Defense in Depth**: Layered security controls at every level
-- 🎓 **Continuous Learning**: Staying ahead in the ever-evolving cybersecurity landscape
-- 🤝 **Knowledge Sharing**: Contributing to the community through documentation and open source
-- ⚡ **Automation First**: Automating security and compliance to reduce human error
-- 🎯 **Practical Security**: Solutions that work in real-world environments, not just theory
+
+- 🎯 **Offensive Mindset**: Think like an attacker to build better defenses
+- 🔍 **Deep Technical Analysis**: Go beyond automated scans to find critical vulnerabilities
+- 🤝 **Responsible Disclosure**: Ethical vulnerability reporting that helps improve security
+- 📚 **Continuous Learning**: Staying ahead in the rapidly evolving security landscape
+- 🌐 **Knowledge Sharing**: Contributing to the security community through research and education
+- ⚡ **Practical Security**: Real-world testing and validation, not just theoretical analysis
+
+---
+
+## 💭 Current Goals
+
+✅ Building comprehensive bug bounty automation framework  
+✅ Expanding offensive security lab environments for portfolio  
+✅ Contributing to open-source security tools and research  
+✅ Completing MS in Cyber Operations (August 2026)  
+✅ Growing bug bounty reputation and critical findings  
+✅ Developing advanced exploitation techniques and methodologies  
 
 ---
 
 <div align="center">
 
-**💡 Open to opportunities in Cybersecurity, Cloud Security, and Security Engineering**
+**🎯 Available for Bug Bounty Collaboration | Security Research | Penetration Testing Engagements**
 
-![Profile Views](https://komarev.com/ghpvc/?username=MIMOCloud24&color=5E6AD2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=MIMOCloud24&color=FF6B35&style=for-the-badge)
 
-⭐️ From [MIMOCloud24](https://github.com/MIMOCloud24)
+⭐️ From [MIMOCloud24](https://github.com/MIMOCloud24) | 🎯 Happy Hunting!
 
 </div>
